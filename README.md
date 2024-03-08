@@ -33,6 +33,17 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
 
+## Quassia amara
+
+_Quassia amara_ is a plant named after Graman Kwasimukambe (also known as Kwasi), an Afrodescendant naturalist who lived in Surinam in the eighteenth century.
+
+<param ve-image 
+       url="https://www.biodiversitylibrary.org/pageImage/469068"
+       label="Quassia amara" 
+       description="Botanical illustration from William Curtis' Botanical Magazine"
+       license="Public domain"
+       fit="contain">
+
 ## Map
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
