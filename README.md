@@ -35,14 +35,14 @@ dated c. 1665. Going by various names over the centuries, it became known by its
 
 ## Quassia amara
 
-_Quassia amara_ is a plant named after Graman Kwasimukambe (also known as Kwasi), an Afrodescendant naturalist who lived in Surinam in the eighteenth century.
+_Quassia amara_ is a plant named after Graman Kwasimukambe (also known as Kwasi), an Afrodescendant naturalist who lived in Surinam in the eighteenth century. This particular image of _Quassia amara_ was published in William Curtis' famed _The Botanical Magazine; Or, Flower-Garden Displayed_, one of the leading botanical publications of its time. The artist who created the image is Sydenham Edwards <span data-mouseover-image-zoomto="646,798,800,724">Illustration caption</span>. 
 
 <param ve-image 
        url="https://www.biodiversitylibrary.org/pageImage/469068"
        label="Quassia amara" 
        description="Botanical illustration from William Curtis' Botanical Magazine"
        license="Public domain"
-       region="646,798,800,724">
+       fit="contain">
 
 ## Map
 
