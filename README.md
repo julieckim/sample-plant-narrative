@@ -42,7 +42,7 @@ _Quassia amara_ is a plant named after Graman Kwasimukambe (also known as Kwasi)
        label="Quassia amara" 
        description="Botanical illustration from William Curtis' Botanical Magazine"
        license="Public domain"
-       fit="contain">
+       region="646,798,800,724">
 
 ## Map
 
