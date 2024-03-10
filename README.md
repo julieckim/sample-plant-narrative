@@ -51,7 +51,7 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
 
 ## Suriname
 
-Kwasi found _Quassia amara_ growing in Suriname. The capital of Suriname is Paramaribo. 
+Kwasi found _Quassia amara_ growing in Suriname. The capital of Suriname is <span data-mouseover-map-flyto="5.8237, -55.1747, 14">Paramaribo</span>. 
 
 <param ve-map 
        center="Q730" 
