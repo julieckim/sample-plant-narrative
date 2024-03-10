@@ -55,7 +55,7 @@ Kwasi found _Quassia amara_ growing in Suriname. The capital of Suriname is Para
 
 <param ve-map 
        center="Q730" 
-       zoom="11"
+       zoom="8"
        Title="Suriname"
        show-labels>
 
