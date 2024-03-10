@@ -35,7 +35,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
 
 ## Quassia amara
 
-_Quassia amara_ is a plant named after Graman Kwasimukambe (also known as Kwasi), an Afrodescendant naturalist who lived in Surinam in the eighteenth century. A botanical illustration of _Quassia amara_ appeared in an 1800 issue of William Curtis' famed _The Botanical Magazine; Or, Flower-Garden Displayed_, one of the leading botanical publications of its time. Sydenham Edwards was the artist who created the illustration. His name appears in the <span data-mouseover-image-zoomto="202,1764,1600,1447">caption</span> at the bottom of the illustration. 
+_Quassia amara_ is a plant named after Graman Kwasimukambe (also known as Kwasi), an Afrodescendant naturalist who lived in Suriname in the eighteenth century. A botanical illustration of _Quassia amara_ appeared in an 1800 issue of William Curtis' famed _The Botanical Magazine; Or, Flower-Garden Displayed_, one of the leading botanical publications of its time. Sydenham Edwards was the artist who created the illustration. His name appears in the <span data-mouseover-image-zoomto="202,1764,1600,1447">caption</span> at the bottom of the illustration. 
 
 <param ve-image 
        url="https://www.biodiversitylibrary.org/pageImage/469068"
@@ -49,6 +49,16 @@ _Quassia amara_ is a plant named after Graman Kwasimukambe (also known as Kwasi)
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
 literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
 <param ve-map center="Q36600" zoom="11" prefer-geojson>
+
+## Suriname
+
+Kwasi found _Quassia amara_ growing in Suriname. The capital of Suriname is Paramaribo. 
+
+<param ve-map 
+       center="Q730" 
+       zoom="5"
+       Title="Suriname"
+       show-labels>
 
 ## Multiple viewers
 
