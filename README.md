@@ -51,13 +51,18 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
 
 ## Suriname
 
-Kwasi found _Quassia amara_ growing in Suriname. The capital of Suriname is <span data-mouseover-map-flyto="5.8237, -55.1747, 12">Paramaribo</span>. 
+Kwasi found _Quassia amara_ growing in Suriname. The capital of Suriname is <span data-mouseover-map-flyto="5.8237, -55.1747, 12">Paramaribo</span>. The Surinaams Museum in Paramaribo is dedicated to preserving Suriname's history and culture.
 
 <param ve-map 
        center="Q730" 
        zoom="7"
        Title="Suriname"
        show-labels>
+<param ve-map-marker
+       url="https://www.wikidata.org/wiki/Q1960505#/media/File:Fort_Zeelandia.jpg"
+       coords="5.8252; -55.149872"
+       size="1689, 1143" 
+       circle="true">
 
 ## Multiple viewers
 
