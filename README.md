@@ -60,7 +60,7 @@ Kwasi found _Quassia amara_ growing in Suriname. The capital of Suriname is <spa
        show-labels>
 <param ve-map-marker
        url="https://www.wikidata.org/wiki/Q1960505#/media/File:Fort_Zeelandia.jpg"
-       coords="5.8252; -55.149872"
+       coords="5.8252, -55.149872"
        size="1689, 1143" 
        circle="true">
 
