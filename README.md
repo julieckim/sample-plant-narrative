@@ -72,7 +72,7 @@ This map shows a journey down the Suriname River from Paramaribo.
        center="Q2398165"
        zoom="5"
        Title="Suriname River Journey"
-       show-labels>
+       prefer-geojson>
 <param ve-map-layer geojson
        url="https://raw.githubusercontent.com/julieckim/sample-plant-narrative/main/surinameriver.json"
        show-labels
