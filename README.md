@@ -69,7 +69,7 @@ Kwasi found _Quassia amara_ growing in Suriname. The capital of Suriname is <spa
 This map shows a journey down the Suriname River from Paramaribo. 
 
 <param ve-map
-       center="Q2398165"
+       center="5.1566, -55.0882"
        zoom="5"
        Title="Suriname River Journey"
        prefer-geojson>
