@@ -78,12 +78,12 @@ This map shows a journey down the Suriname River from Paramaribo.
        show-labels
        stroke-width="0">
 
-## Quassia amara in Colonial Narratives of Exploration
+## Suriname in Colonial Narratives of Exploration
 
-Quassia amara has appeared in many colonial narratives of exploration.
+Suriname and its nature have been the subject of many colonial narratives of exploration.
 
 <param ve-iframe
-       src="https://www.biodiversitylibrary.org/pageImage/469068">
+       src="https://books.google.vu/books?id=6r8WAAAAYAAJ&pg=PA156-IA2&source=gbs_selected_pages&cad=1#v=onepage&q&f=false">
 
 ## Multiple viewers
 
