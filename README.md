@@ -83,7 +83,7 @@ This map shows a journey down the Suriname River from Paramaribo.
 Suriname and its nature have been the subject of many colonial narratives of exploration.
 
 <param ve-iframe
-       src="https://books.google.vu/books?id=6r8WAAAAYAAJ&pg=PA156-IA2&source=gbs_selected_pages&cad=1#v=onepage&q&f=false">
+       src="https://books.google.vu/books?id=6r8WAAAAYAAJ&pg=PA156-IA2&output=embed">
 
 ## Timeline of Suriname Colonizations
 
