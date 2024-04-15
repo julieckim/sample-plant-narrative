@@ -85,6 +85,17 @@ Suriname and its nature have been the subject of many colonial narratives of exp
 <param ve-iframe
        src="https://books.google.vu/books?id=6r8WAAAAYAAJ&pg=PA156-IA2&source=gbs_selected_pages&cad=1#v=onepage&q&f=false">
 
+## Timeline of Suriname Colonizations
+
+Many European powers wanted to colonize Suriname, and it changed hands at several points in its early colonial history.
+
+<param ve-knightlab-timeline
+       source="1QRf1OqwL5Awyus1LveVmNVPbNt3gw8BhzSH8b--lMHw"
+       timenav-position="bottom"
+       hash-bookmark="false”
+       initial-zoom="1"
+       height="750">
+
 ## Multiple viewers
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
